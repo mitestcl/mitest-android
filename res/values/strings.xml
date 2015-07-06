@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiTeSt</string>
+    <string name="menu_open">Abrir</string>
+    <string name="menu_scan">Escanear</string>
+    <string name="menu_exit">Salir</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_mitest">MiTeSt</string>
+    <string name="mitest_logo">MiTeSt Logo</string>
+    <string name="inicio_instrucciones">Para iniciar una prueba seleccione una de las siguientes opciones:</string>
+    <string name="creditos">MiTeSt 2014 - mitest.cl</string>
+</resources>
