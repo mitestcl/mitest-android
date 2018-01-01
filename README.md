@@ -11,3 +11,5 @@ Características:
 - Soporta una imagen por pregunta.
 - Permite agregar una explicación de la(s) respuesta(s) correcta(s) para la pregunta.
 - Entrega estadística con preguntas correctas y puntaje obtenido.
+
+Proyecto bajo [licencia GPL v3 o superior](https://www.gnu.org/licenses/gpl-3.0.en.html)
